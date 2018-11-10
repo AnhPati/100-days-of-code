@@ -1,16 +1,6 @@
 # 100 Jours de Code - Log
 
-### Jour 0: 26 Février 2016
-##### (supprimer ou commenter l'exemple)
-
-**Progrès**: Correction du CSS, avancement de la fonctionnalité canvas dans l'app
-
-**Pensées**: J'ai vraiment bataillé avec le CSS, mais, dans l'ensemble, j'ai l'impression que je commence à m'améliorer. Canvas est encore un concept nouveau pour moi, mais j'ai réussi à comprendre des fonctionnalités de base.
-
-**Lien vers les travaux**: [Calculator App](http://www.example.com)
-
-### Jour 1: 27 février 2016
-##### (supprimer ou commenter l'exemple)
+### Jour 1: 10 novembre 2018
 
 **Progrès**: J'ai complété des exercices surFreeCodeCamp.
 
