@@ -2,10 +2,9 @@
 
 ### Jour 1: 10 novembre 2018
 
-**Progrès**: J'ai complété des exercices surFreeCodeCamp.
+**Progrès**: J'ai finalisé le projet "Build a technical documentation page" sur Freecodecamp.
 
-**Pensées**: J'ai commencé à coder récemment, et c'est vraiment super quand je parviens à résoudre un exercice d'algorithme après de nombreux essais et des heures passées dessus.
+**Pensées**: Il a été compliqué de se remettre dedans, mais ça s'est très vite décanté et m'a donné du courage pour la suite.
 
 **Liens vers les travaux**:
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string) 
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) 
+1. [Technical documentation page] (https://github.com/AnhPati/Responsive_Web_Design_Projects/tree/master/Build_a_technical_documentation_page)
