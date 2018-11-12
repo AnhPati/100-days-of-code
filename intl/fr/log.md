@@ -8,3 +8,20 @@
 
 **Liens vers les travaux**:
 1. [Technical documentation page] (https://github.com/AnhPati/Responsive_Web_Design_Projects/tree/master/Build_a_technical_documentation_page)
+
+
+### Jour 2: 11 novembre 2018
+
+**Progrès**: J'ai avancé sur la structure du projet 5 du cursus RWD de Freecodecamp : "Build a personal portfolio".
+J'ai créé des classes utilitaires et nommé mes classes selon un dérivé de la norme BEM. (CF Alsacréations)
+
+**Pensées**: Autant se relancer à minuit, le jour J après avoir déjà fait des heures de code c'est une formalité, autant un dimanche où l'on missionne et se retrouve entre colocs à jouer à Catane en fin d'aprem' c'est pas une synécure. Voila donc la raison de mon passage tardif.
+J'ai utilisé un format .svg pour les images, j'attend de voir leurs réels apports, en dehors de leur légerté, vu que je ne les manipule pas en JS.
+J'ai pu lire pas mal de témoignages et conseils sur Medium au cours de la journée, rassurant pour la suite et surtout structurant.
+
+**Liens vers les travaux**:
+1. [Personal portfolio] (https://github.com/AnhPati/Responsive_Web_Design_Projects/tree/master/Build_a_personal_portfolio)
+
+**Liens vers les ressources**:
+1. [Bonnes pratiques en CSS : BEM et OSCSS - Alsacréations] (https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html)
+2. [Useful tips to help you create good habits as a web developer - Antoine Lechenault] (https://medium.freecodecamp.org/useful-tips-to-help-you-create-good-habits-as-a-web-developer-7c1b7b5c0bcb)
