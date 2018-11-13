@@ -38,4 +38,17 @@ Veille sur les animations CSS.
 1. [Personal portfolio] (https://github.com/AnhPati/Responsive_Web_Design_Projects/tree/master/Build_a_personal_portfolio)
 
 **Liens vers les ressources**:
-1. [The ultimate guide to proper use of animation in UX - Taras Skytskyi ] (https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+1. [The ultimate guide to proper use of animation in UX - Taras Skytskyi] (https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+
+### Jour 4: 13 novembre 2018
+
+**Progrès**:Obtention du certificat RWD sur Freecodecamp. Début du survol des cours HTML/CSS du site Odin Project avant de débuter le premier projet : "Embedding images and video". Réalisation du header. Cela m'a permis de peaufiner mes conceptions de layout et le choix de mes classes CSS, ainsi que de travailler sur les images responsives.
+
+**Pensées**: Un très bon exercice, bien que j'ai perdu pas mal de temps à reprendre du contenu que j'ai vu plusieurs fois sur différents cours. Il faudrait que j'évite d'être psychorigide au point de reprendre l'ensemble de tous les cours plutôt que de passer directement aux projets. Etudier en profondeur l'intégration responsive d'une iframe, quitte à la faire en JavaScript.
+
+**Liens vers les travaux**:
+1. [Certification - Responsive Web Design] (https://www.freecodecamp.org/certification/ahnpati/responsive-web-design)
+2. [Embedding images and video] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Embendding_images_and_video)
+
+**Liens vers les ressources**:
+1. [Adapter son Iframe à la résolution de son écran - Openclassrooms] (https://openclassrooms.com/forum/sujet/adapter-sa-iframe-a-la-resolution-de-l-ecran)
