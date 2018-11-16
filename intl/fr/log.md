@@ -53,14 +53,16 @@ Veille sur les animations CSS.
 **Liens vers les ressources**:
 1. [Adapter son Iframe à la résolution de son écran - Openclassrooms] (https://openclassrooms.com/forum/sujet/adapter-sa-iframe-a-la-resolution-de-l-ecran)
 
-### Jour 5: 14 novembre 2018
+### Jour 6: 16 novembre 2018
 
-**Progrès**: Le projet "Embedding images and video d'Odin Project avance bien. J'ai pu intégrer la vidéo avec quelques "hacks" CSS afin qu'elle prenne tout l'écran (comme le nouveau Youtube), tout en restant responsive. J'ai pu m'attaquer ensuite au contenu de la partie des commentaires.
+**Progrès**: Mise en place du menu au dessus du formulaire. Mise à jour du CSS pour factoriser au mieux les priorités. Gestion des éléments de façon indépendante. Approche du CSS fonctionnel.
 
-**Pensées**: Se renseigner sur les différentes techniques d'intégration (découpage du code/nommage des classes) du coté HTML. Je perd encore trop de temps à mon goût sur cet aspect là. Réfléchir à l'intégration ou non des nombreux "collapses" de la page en Javascript.
+**Pensées**: Un jour sauté malgré l'occasion de me dédier au programme. Ne pas hésiter à le faire malgré la présence de tiers. Approfondir la POO de JavaScript pour intégrer les collapses et l'ajout de commentaires sur la page.
 
 **Liens vers les travaux**:
 1. [Embedding images and video] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Embendding_images_and_video)
 
 **Liens vers les ressources**:
-1. [How to Javascript collapsible] (https://www.w3schools.com/howto/howto_js_collapsible.asp)
+1. [Introduction to object oriented programming in javascript] (https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
+
+2. [Stimplify Styling with Functional CSS] (https://blog.rangle.io/styling-with-functional-css/)
