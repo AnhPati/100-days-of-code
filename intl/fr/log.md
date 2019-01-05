@@ -66,3 +66,39 @@ Veille sur les animations CSS.
 1. [Introduction to object oriented programming in javascript] (https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
 
 2. [Stimplify Styling with Functional CSS] (https://blog.rangle.io/styling-with-functional-css/)
+
+________________________________________________________________________________________________________________________________________
+
+### Jour 1: 3 janvier 2019
+
+**Progrès**: Réalisation des exercices Missing letters, PassedSorted Union, PassedConvert HTML Entities, sur Freecodecamp.
+
+**Pensées**: Difficulté avec l'algorithmie, c'est tout de même l'occasion d'approfondir les méthodes des différents objets JavaScript. Reprise du défi, je reste concentré.
+
+**Liens vers les travaux**:
+1. [Missing letters] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/missing-letters)
+
+2. [Sorted Union] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sorted-union)
+
+3. [Convert HTML entities] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/convert-html-entities)
+
+**Liens vers les ressources**:
+1. [Array] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array)
+
+2. [String] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String)
+
+### Jour 2: 4 janvier 2019
+
+**Progrès**: Résolution des problèmes Sum All Odd Fibonacci Numbers, PassedSum All Primes, sur Freecodecamp.
+
+**Pensées**: Toujours aussi compliqué, notamment au niveau des expressions mathématiques. Je lorgne également sur un prochain défi de 30 jours sur JavaScript.
+
+**Liens vers les travaux**:
+1. [Sum all odd fibonacci numbers] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-odd-fibonacci-numbers)
+
+2. [Sum all primes] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-primes)
+
+**Liens vers les ressources**:
+1. [#Javascript30] (https://javascript30.com/)
+
+2. [Opérateurs logique] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Op%C3%A9rateurs_logiques)
