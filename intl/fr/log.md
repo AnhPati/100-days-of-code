@@ -102,3 +102,45 @@ ________________________________________________________________________________
 1. [#Javascript30] (https://javascript30.com/)
 
 2. [Opérateurs logique] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Op%C3%A9rateurs_logiques)
+
+### Jour 3: 5 janvier 2019
+
+**Progrès**: Réalisation des exercices Smallest Common Multiple et Drop It, sur Freecodecamp.
+
+**Pensées**: Je pêche toujours autant sur les exercices. La difficulté de la reprise se fait également ressentir, je décide donc de me tenir à l'heure par jour, mais de m'octroyer un tweet tous les deux jours.
+
+**Liens vers les travaux**:
+1. [Smallest Common Multiple] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
+
+2. [Drop It] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)
+
+**Liens vers les ressources**:
+1. [Array.prototype.shift()] (https://javascript30.com/)
+
+2. [Arguments] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Fonctions/arguments)
+
+3. [Do ... while] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Instructions/do...while)
+
+### Jour 4: 6 janvier 2019
+
+**Progrès**: Résolution des problèmes Steamroller, Binary Agents, Everything Be True, sur Freecodecamp.
+
+**Pensées**: Il faut que je commence à plancher sur mon application. Elle devrait me permettre de visualiser à l'aide de graphique des données sur ma vie que je rentre sur l'application Daylio. En gros ça sera d'une part du tri sur des tableaux. Et ensuite il faudra développer l'affichage des graphiques, je ne vois même pas comment faire. Peut-être avec un canvas ou en manipulant des svg.
+
+**Liens vers les travaux**:
+1. [Steamroller] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)
+
+2. [Binary Agents] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)
+
+3. [Everything Be True] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)
+
+**Liens vers les ressources**:
+1. [Array.isArray()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/isArray)
+
+2. [Sring.prototype.fromCharCode()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/String/fromCharCode)
+
+3. [String.prototype.parseInt()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/parseInt)
+
+4. [Boolean()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Boolean)
+
+5. [Object.prototype.hasOwnProperty()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Object/hasOwnProperty)
