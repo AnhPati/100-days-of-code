@@ -144,3 +144,49 @@ ________________________________________________________________________________
 4. [Boolean()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Boolean)
 
 5. [Object.prototype.hasOwnProperty()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Object/hasOwnProperty)
+
+### Jour 5: 4 janvier 2019
+
+**Progrès**: Résolution du problème Arguments Optional, sur Freecodecamp.
+
+**Pensées**: Un exercice qui semblait simple et qui m'a posé beaucoup de fil à retordre. Surement pour avoir préféré utiliser isNaN() plutot que type of pour vérifier que l'argument passé était bien un nombre.
+
+**Liens vers les travaux**:
+1. [Arguments Optional] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional/)
+
+**Liens vers les ressources**:
+1. [isNaN()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/isNaN)
+
+2. [L'opérateur type of] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_typeof)
+
+
+### Jour 6: 8 janvier 2019
+
+**Progrès**: Résolution du problème Make a Person, sur Freecodecamp.
+
+**Pensées**: Egalement un problème très simple en apparence, où j'ai passé des heures à rester bloquer alors que mes console.log m'affichait le bon résultat.
+
+**Liens vers les travaux**:
+1. [Make a Person] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person/)
+
+**Liens vers les ressources**:
+1. [Utiliser les objets] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets)
+
+
+### Jour 7: 9 janvier 2019
+
+**Progrès**: Résolution du problème Map the Debris, sur Freecodecamp.
+
+**Pensées**: Un problème complexe qui m'a poussé dans mes retranchements. Instinctivement j'ai découpé mon code en plusieurs méthodes auxquelles j'ai fait appel ensuite dans une boucle. Surement une des choses que j'ai pu faire en  JavaScript dont je suis actuelement le plus fier.
+
+**Liens vers les travaux**:
+1. [Map the Debris] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)
+
+**Liens vers les ressources**:
+1. [Période de révolution] (https://fr.wikipedia.org/wiki/P%C3%A9riode_de_r%C3%A9volution)
+
+2. [Math] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math)
+
+3. [Utiliser des objets] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets)
+
+4. [delete] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_delete)
