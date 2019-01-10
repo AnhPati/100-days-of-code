@@ -190,3 +190,19 @@ ________________________________________________________________________________
 3. [Utiliser des objets] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets)
 
 4. [delete] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_delete)
+
+
+### Jour 8: 10 janvier 2019
+
+**Progrès**: Passage aux projets d'algorithmie et de data Javascript sur Freecodecamp. J'ai également recommencé les excercices intermédiaires d'algorithmie que j'ai fini hier J'ai donc réalisé les exercices Palindrome Checker et Roman Numeral Converter pour le premier cas et recommencer Sum All Numbers in a Range pour le second.
+
+**Pensées**: Etrangement les exercices censés être plus complexes sont bien plus simples à réaliser. J'ai pu les réaliser sans même regarder une seule fois l'aide. C'est pour cela que j'ai également décidé de reprendre tous les exercices précédents et de me contraindre à ne plus du tout farfouiller dans les astuces quand je bloque.
+
+**Liens vers les travaux**:
+1. [Sum All Numbers in a Range] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range/)
+
+2. [Palindrome Checker] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker/)
+
+3. [Roman Numeral Converter] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+**Liens vers les ressources**:
