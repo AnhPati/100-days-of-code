@@ -145,7 +145,7 @@ ________________________________________________________________________________
 
 5. [Object.prototype.hasOwnProperty()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Object/hasOwnProperty)
 
-### Jour 5: 4 janvier 2019
+### Jour 5: 7 janvier 2019
 
 **Progrès**: Résolution du problème Arguments Optional, sur Freecodecamp.
 
