@@ -29,7 +29,7 @@ J'ai pu lire pas mal de témoignages et conseils sur Medium au cours de la journ
 
 ### Jour 3: 12 novembre 2018
 
-**Progrès**:Finalisation du projet "Build a personal portfolio sur Freecodecamp. Et du coup fin du parcours RWD du site.
+**Progrès**: Finalisation du projet "Build a personal portfolio sur Freecodecamp. Et du coup fin du parcours RWD du site.
 
 **Pensées**: Beaucoup moins compliqué de s'y mettre que ce weekend. Et bien que je ne pensais que faire de légères modifications, le temps est passé à toute vitesse et sans jamais lever le nez, j'ai été au bout.
 Veille sur les animations CSS.
@@ -42,7 +42,7 @@ Veille sur les animations CSS.
 
 ### Jour 4: 13 novembre 2018
 
-**Progrès**:Obtention du certificat RWD sur Freecodecamp. Début du survol des cours HTML/CSS du site Odin Project avant de débuter le premier projet : "Embedding images and video". Réalisation du header. Cela m'a permis de peaufiner mes conceptions de layout et le choix de mes classes CSS, ainsi que de travailler sur les images responsives.
+**Progrès**: Obtention du certificat RWD sur Freecodecamp. Début du survol des cours HTML/CSS du site Odin Project avant de débuter le premier projet : "Embedding images and video". Réalisation du header. Cela m'a permis de peaufiner mes conceptions de layout et le choix de mes classes CSS, ainsi que de travailler sur les images responsives.
 
 **Pensées**: Un très bon exercice, bien que j'ai perdu pas mal de temps à reprendre du contenu que j'ai vu plusieurs fois sur différents cours. Il faudrait que j'évite d'être psychorigide au point de reprendre l'ensemble de tous les cours plutôt que de passer directement aux projets. Etudier en profondeur l'intégration responsive d'une iframe, quitte à la faire en JavaScript.
 
@@ -210,6 +210,8 @@ ________________________________________________________________________________
 ### Jour 1: 5 mars 2019
 
 **Progrès**: Apprentissage du système Grid de CSS afin de l'implémenter sur le projet Positioning et floating elements d'Odin Project. Création de la grille sur le projet cité.
+
+Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depuis la dernière fois. J'ai fini le parcours JS, Bootstrap, Jquery et ReactJS de FreecodeCamp, ainsi que le parcours ReactJS de Scrimba. C'est ma volonté, maîtriser ReactJS pour mettre en oeuvre des projets personnels afin de tester la viabilité de certains business plan. Et surtout créer notre LMS !
 
 **Pensées**: Comme on dit, jamais deux sans trois! Je profite de mon voyage en Colombie pour reprendre plus motivé que jamais. Il faut dire que je m'y suis rendu pour voir la viabilité de mon projet de vie qui m'a mené à être développeur : pourvoir travailler et voyager en même temps. J'ai pris grand plaisir à remettre le nez dans ce projet perso et à apprendre cet aspect de CSS que j'avais jusqu'alors délaissé.
 
