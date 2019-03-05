@@ -206,3 +206,17 @@ ________________________________________________________________________________
 3. [Roman Numeral Converter] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
 
 **Liens vers les ressources**:
+
+### Jour 1: 5 mars 2019
+
+**Progrès**: Apprentissage du système Grid de CSS afin de l'implémenter sur le projet Positioning et floating elements d'Odin Project. Création de la grille sur le projet cité.
+
+**Pensées**: Comme on dit, jamais deux sans trois! Je profite de mon voyage en Colombie pour reprendre plus motivé que jamais. Il faut dire que je m'y suis rendu pour voir la viabilité de mon projet de vie qui m'a mené à être développeur : pourvoir travailler et voyager en même temps. J'ai pris grand plaisir à remettre le nez dans ce projet perso et à apprendre cet aspect de CSS que j'avais jusqu'alors délaissé.
+
+**Liens vers les travaux**:
+1. [Positioning and Floating Elements] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Positioning_and_floating_elements)
+
+**Liens vers les ressources**:
+1. [CSS Grid Layout, guide complet] (https://css.developpez.com/tutoriels/css-guide-complet/)
+
+2. [Tutoriel CSS : display: grid; - Grafikart] (https://www.youtube.com/watch?v=2H602-zG62w)
