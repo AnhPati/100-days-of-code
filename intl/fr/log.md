@@ -207,9 +207,9 @@ ________________________________________________________________________________
 
 **Liens vers les ressources**:
 
-### Jour 1: 5 mars 2019
+### Jour 1: 4 mars 2019
 
-**Progrès**: Apprentissage du système Grid de CSS afin de l'implémenter sur le projet Positioning et floating elements d'Odin Project. Création de la grille sur le projet cité.
+**Progrès**: Apprentissage du système Grid de CSS afin de l'implémenter sur le projet Positioning and floating elements d'Odin Project. Création de la grille sur le projet cité.
 
 Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depuis la dernière fois. J'ai fini le parcours JS, Bootstrap, Jquery et ReactJS de FreecodeCamp, ainsi que le parcours ReactJS de Scrimba. C'est ma volonté, maîtriser ReactJS pour mettre en oeuvre des projets personnels afin de tester la viabilité de certains business plan. Et surtout créer notre LMS !
 
@@ -222,3 +222,18 @@ Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depu
 1. [CSS Grid Layout, guide complet] (https://css.developpez.com/tutoriels/css-guide-complet/)
 
 2. [Tutoriel CSS : display: grid; - Grafikart] (https://www.youtube.com/watch?v=2H602-zG62w)
+
+### Jour 2: 5 mars 2019
+
+**Progrès**: Finalisation des sections More et Most du projet Positioning and floating elements d'Odin Project. Mise en place de la structure du footer. Meilleure maîtrise du responsive des images et de l'application des styles aux liens.
+
+**Pensées**: Dur dur de s'y mettre, surtout les dix premières minutes. On se dit qu'on n'y comprends plus rien, qu'on est largué. Puis on code une ligne, deux et là ça coule tout seul !
+
+**Liens vers les travaux**:
+1. [Positioning and Floating Elements] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Positioning_and_floating_elements)
+
+**Liens vers les ressources**:
+1. [CSS Grid Layout, guide complet] (https://css.developpez.com/tutoriels/css-guide-complet/)
+
+2. [Tutoriel CSS : display: grid; - Grafikart] (https://www.youtube.com/watch?v=2H602-zG62w)
+
