@@ -237,3 +237,13 @@ Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depu
 
 2. [Tutoriel CSS : display: grid; - Grafikart] (https://www.youtube.com/watch?v=2H602-zG62w)
 
+### Jour 2: 5 mars 2019
+
+**Progrès**: Finalisation du projet Positioning and floating elements d'Odin Project.
+
+**Pensées**: Je suis rentré dedans bien plus facilement qu'hier. La finalisation est une succession de petits ajouts de classe pour coller à l'exemple. J'ai voulu entamé le responsive, mais c'est un gros chantier vu que non penser au départ. A voir si je le ferai ultérieurement.
+
+**Liens vers les travaux**:
+1. [Positioning and Floating Elements] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Positioning_and_floating_elements)
+
+**Liens vers les ressources**:
