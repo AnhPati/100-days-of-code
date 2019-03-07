@@ -237,7 +237,7 @@ Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depu
 
 2. [Tutoriel CSS : display: grid; - Grafikart] (https://www.youtube.com/watch?v=2H602-zG62w)
 
-### Jour 2: 5 mars 2019
+### Jour 3: 6 mars 2019
 
 **Progrès**: Finalisation du projet Positioning and floating elements d'Odin Project.
 
