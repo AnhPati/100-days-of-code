@@ -258,3 +258,15 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)
 
 **Liens vers les ressources**:
+
+### Jour 5: 8 mars 2019
+
+**Progrès**: Choix du niveau de gris, création des premiers layout et de la navigation du projet Design teardown de Odin Project. Démarrage de l'apprentissage de Redux sur Freecodecamp.
+
+**Pensées**: Courte journée de code (seulement une petite heure et demi). Il faut dire qu'il me faut profiter de la Colombie et qu'entre les cours d'espagnol et le concert de ce soir, le timming était serré. Je suis tout de même heureux d'avoir pu un peu avancer !
+**Liens vers les travaux**:
+1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)*
+
+1. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
+
+**Liens vers les ressources**:
