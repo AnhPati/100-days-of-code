@@ -247,3 +247,14 @@ Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depu
 1. [Positioning and Floating Elements] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Positioning_and_floating_elements)
 
 **Liens vers les ressources**:
+
+### Jour 4: 7 mars 2019
+
+**Progrès**: Mise en place du projet Design teardown d'Odin Project. Découpage de la page d'accueil du Smashing Magazine et création du squelette HTML.
+
+**Pensées**: Je boudais le projet, puis après une séance de méditation la motivation m'est revenue ! Par contre grosse frayeur au niveau du repo, cela faisait tellement longtemps que je n'avais pas créé un nouveau dossier dans celui-ci que j'avais oublié le fonctionnement. Une heure perdue à se rassurer qu'il n'y avait aucun risque pour que mon envoie écrase ce qui était déjà en ligne, dire que j'ai même créé une branche pour l'occasion... *glousse*
+Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'hier, ça a enregistré le dépôt au lendemain (le 8 alors qu'on est encore le 7 ici), je suis pas content !
+**Liens vers les travaux**:
+1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)
+
+**Liens vers les ressources**:
