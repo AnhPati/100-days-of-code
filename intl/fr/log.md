@@ -267,6 +267,36 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les travaux**:
 1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)*
 
+2. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
+
+**Liens vers les ressources**:
+
+### Jour 6: 9 mars 2019
+
+**Progrès**: Avancée sur le parcours Redux de Freecodecamp.
+
+**Pensées**: Grosse difficultés dans l'apprentissage de Redux. Je n'ai pas encore trouvé de documentation satisfaisante.
+**Liens vers les travaux**:
 1. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
 
 **Liens vers les ressources**:
+
+1. [Redux and reducers] (https://redux.js.org/basics/reducers)
+
+### Jour 7: 10 mars 2019
+
+**Progrès**: Avancée sur le parcours Redux de Freecodecamp. Démarrage d'un nouveau cours sur ReactJS pour mieux appréhender Redux.
+
+**Pensées**: Beaucoup de lecture sur Redux. J'ai eu la chance d'avoir un cours personnel donné par un ami qui m'aide à y voir plus clair. J'ai repris un nouveau cours sur ReactJS.
+**Liens vers les travaux**:
+1. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
+
+2. [ReactJS] (https://qllo63nj3w.codesandbox.io/)
+
+**Liens vers les ressources**:
+
+1. [How you structure your React Project] (https://daveceddia.com/react-project-structure/)
+
+2. [Redux VS React Context API] (https://daveceddia.com/context-api-vs-redux/)
+
+3. [React Redux Tutorial for Beginners : The Definite guide (2019)] (https://www.valentinog.com/blog/redux/)
