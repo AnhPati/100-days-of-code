@@ -207,6 +207,8 @@ ________________________________________________________________________________
 
 **Liens vers les ressources**:
 
+________________________________________________________________________________________________________________________________________
+
 ### Jour 1: 4 mars 2019
 
 **Progrès**: Apprentissage du système Grid de CSS afin de l'implémenter sur le projet Positioning and floating elements d'Odin Project. Création de la grille sur le projet cité.
@@ -254,6 +256,7 @@ Et j'en profite pour faire un rapide topo de ce que j'ai quand même appris depu
 
 **Pensées**: Je boudais le projet, puis après une séance de méditation la motivation m'est revenue ! Par contre grosse frayeur au niveau du repo, cela faisait tellement longtemps que je n'avais pas créé un nouveau dossier dans celui-ci que j'avais oublié le fonctionnement. Une heure perdue à se rassurer qu'il n'y avait aucun risque pour que mon envoie écrase ce qui était déjà en ligne, dire que j'ai même créé une branche pour l'occasion... *glousse*
 Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'hier, ça a enregistré le dépôt au lendemain (le 8 alors qu'on est encore le 7 ici), je suis pas content !
+
 **Liens vers les travaux**:
 1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)
 
@@ -264,6 +267,7 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Progrès**: Choix du niveau de gris, création des premiers layout et de la navigation du projet Design teardown de Odin Project. Démarrage de l'apprentissage de Redux sur Freecodecamp.
 
 **Pensées**: Courte journée de code (seulement une petite heure et demi). Il faut dire qu'il me faut profiter de la Colombie et qu'entre les cours d'espagnol et le concert de ce soir, le timming était serré. Je suis tout de même heureux d'avoir pu un peu avancer !
+
 **Liens vers les travaux**:
 1. [Design teardown] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Design_teardown)*
 
@@ -276,6 +280,7 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Progrès**: Avancée sur le parcours Redux de Freecodecamp.
 
 **Pensées**: Grosse difficultés dans l'apprentissage de Redux. Je n'ai pas encore trouvé de documentation satisfaisante.
+
 **Liens vers les travaux**:
 1. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
 
@@ -288,15 +293,29 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Progrès**: Avancée sur le parcours Redux de Freecodecamp. Démarrage d'un nouveau cours sur ReactJS pour mieux appréhender Redux.
 
 **Pensées**: Beaucoup de lecture sur Redux. J'ai eu la chance d'avoir un cours personnel donné par un ami qui m'aide à y voir plus clair. J'ai repris un nouveau cours sur ReactJS.
+
 **Liens vers les travaux**:
 1. [Redux] (https://learn.freecodecamp.org/front-end-libraries/redux)
 
 2. [ReactJS] (https://qllo63nj3w.codesandbox.io/)
 
 **Liens vers les ressources**:
-
 1. [How you structure your React Project] (https://daveceddia.com/react-project-structure/)
 
 2. [Redux VS React Context API] (https://daveceddia.com/context-api-vs-redux/)
 
 3. [React Redux Tutorial for Beginners : The Definite guide (2019)] (https://www.valentinog.com/blog/redux/)
+
+### Jour 8: 11 mars 2019
+
+**Progrès**: Poursuite du tutoriel de Dave Ceddia. Aujourd'hui on joue avec les props. J'ai mis entre parenthèses Redux pour deux, trois jours.
+
+**Pensées**: Comme j'ai déjà de petites connaissances sur React et les props, j'ai passé le plus clair de mon temps à personnaliser le mini-projet du jour. C'était l'occasion de revoir les gradients CSS.
+
+**Liens vers les travaux**:
+1. [ReactJS] (https://qllo63nj3w.codesandbox.io/)
+
+**Liens vers les ressources**:
+
+1. [Mozilla - Linear gradient] (https://developer.mozilla.org/fr/docs/Web/CSS/linear-gradient)
+
