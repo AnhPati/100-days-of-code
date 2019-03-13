@@ -319,3 +319,17 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 1. [Mozilla - Linear gradient] (https://developer.mozilla.org/fr/docs/Web/CSS/linear-gradient)
 
+### Jour 9: 12 mars 2019
+
+**Progrès**: Encore et toujours sur le superbe tutoriel de Dave Ceddia. Nouvelle réalisation d'un mini-projet pour ce 3e jour.
+
+**Pensées**: Le thème du jour c'est le "state", ce pouvoir surpuissant qui donne tout son sens à l'utilisation de React. Comme je manie déjà pas mal la bête, j'ai surtout personnaliser le projet. Ca me permet de revoir tous ces petits tips CSS qu'on apprend puis oublie. J'ai pu faire mumuse avec box-shadow et encore les gradients. J'ai aussi regardé la création de Toggle Switch, après j'ai pas trop eu le temps de m'y attardé, j'ai surtout copier-coller un code pré-existant que j'ai personnalisé ensuite, mais je me suis mis le tutoriel de coté pour revoir ça en profondeur par la suite.
+
+**Liens vers les travaux**:
+1. [ReactJS] (https://yjykl7k89x.codesandbox.io/)
+
+**Liens vers les ressources**:
+
+1. [CSS-Tricks - CSS Box Shadow] (https://css-tricks.com/snippets/css/css-box-shadow/)
+
+2. [How To Create a Toggle Switch] (https://www.w3schools.com/howto/howto_css_switch.asp)
