@@ -333,3 +333,24 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [CSS-Tricks - CSS Box Shadow] (https://css-tricks.com/snippets/css/css-box-shadow/)
 
 2. [How To Create a Toggle Switch] (https://www.w3schools.com/howto/howto_css_switch.asp)
+
+### Jour 10: 13 mars 2019
+
+**Progrès**: 4e jour du tutoriel de Dave Ceddia et achêvement de ce mini-projet. J'ai donc lié l'API Reddit à mon application React pour afficher la liste des posts.
+
+**Pensées**: Contrairement aux autres où j'ai pu passer beaucoup de temps à travailler le design, le contenu de l'API est bien trop garni pour faire cela en une session. De plus j'ai passé beaucoup de temps à me documenter sur chaque aspect et fonction utilisé. Donc le clône de Reddit ça sera pour une autre fois, rien ne m'empêche d'améliorer le code dans le temps.
+
+**Liens vers les travaux**:
+1. [ReactJS] (https://p7nnlzlpk7.codesandbox.io/)
+
+**Liens vers les ressources**:
+
+1. [API Reddit] (https://www.reddit.com/r/reactjs.json)
+
+2. [JSON Pretty Print] (http://jsonprettyprint.com/)
+
+3. [Gérer les débordements de contenu grâce à CSS - Alsacréations] (https://www.alsacreations.com/tuto/lire/1038-gerer-debordement-contenu-et-cesures-css.html)
+
+4. [Coding Games - Cycle de vie d'un composant React : render et ComponentDidMount] (https://www.codingame.com/playgrounds/41961/cycle-de-vie-dun-composant-react-render-et-componentdidmount)
+
+4. [MDN - Utiliser les promesses] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_promesses)
