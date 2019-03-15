@@ -354,3 +354,16 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 4. [Coding Games - Cycle de vie d'un composant React : render et ComponentDidMount] (https://www.codingame.com/playgrounds/41961/cycle-de-vie-dun-composant-react-render-et-componentdidmount)
 
 4. [MDN - Utiliser les promesses] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_promesses)
+
+### Jour 10: 13 mars 2019
+
+**Progrès**: Mise en ligne du dernier mini-projet du tutoriel React de Dave Ceddia.
+
+**Pensées**: Un réel plaisir d'apprendre par son intermédiaire. Tellement d'engoûement que j'ai acheté son livre sur React. L'aventure continue donc.
+
+**Liens vers les travaux**:
+1. [ReactJS] (anhpati.surge.sh)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
