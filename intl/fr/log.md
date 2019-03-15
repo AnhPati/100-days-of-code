@@ -355,7 +355,7 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 4. [MDN - Utiliser les promesses] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_promesses)
 
-### Jour 10: 13 mars 2019
+### Jour 11: 14 mars 2019
 
 **Progrès**: Mise en ligne du dernier mini-projet du tutoriel React de Dave Ceddia.
 
