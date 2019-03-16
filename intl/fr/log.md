@@ -367,3 +367,17 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 12: 15 mars 2019
+
+**Progrès**: Mise en place du HelloWorld - Pure React de Dave Ceddia.
+
+**Pensées**: Une pauvre avancée, car j'ai surtout pas mal lu le livre et ses introductions avant de lancer le projet.
+
+**Liens vers les travaux**:
+1. [Pure React - Hello World] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
