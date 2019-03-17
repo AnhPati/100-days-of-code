@@ -381,3 +381,19 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
+### Jour 13: 16 mars 2019
+
+**Progrès**: Introduction et exercices JSX - Pure React de Dave Ceddia.
+
+**Pensées**: On revoit les bases en JSX. On torture le projet React en lui passant un tas de mauvaises pratiques afin de voir comment il réagit. Et au passage on se remémore les opérateurs ternaires et les tableaux HTML (et oui ça fait un moment que j'ai pas vendu de gabarit de newsletter ! :p). En gros on profite un max de "Pure React".
+
+**Liens vers les travaux**:
+1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+2. [MDN - L'opérateur conditionnel] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_conditionnel)
+
+3. [MDN - table : l'élément tableau] (https://developer.mozilla.org/fr/docs/Web/HTML/Element/table)
