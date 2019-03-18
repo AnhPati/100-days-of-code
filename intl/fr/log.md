@@ -397,3 +397,16 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 2. [MDN - L'opérateur conditionnel] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_conditionnel)
 
 3. [MDN - table : l'élément tableau] (https://developer.mozilla.org/fr/docs/Web/HTML/Element/table)
+
+### Jour 14: 17 mars 2019
+
+**Progrès**: Conception du mini-projet : Static Tweet - Pure React de Dave Ceddia.
+
+**Pensées**: Découpage du sketch, ça remet les bonnes pratiques en tête. Puis création de chaque composant indépendement. On continue de revoir les bases, mais c'est essentiel.
+
+**Liens vers les travaux**:
+1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
