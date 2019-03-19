@@ -410,3 +410,16 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 15: 18 mars 2019
+
+**Progrès**: Conception du mini-projet : Props Tweet - Pure React de Dave Ceddia.
+
+**Pensées**: Grosse lecture du passage sur les accessoires. Toujours rien de neuf mais toujours bon de ressasser ce que l'on sait. Reprise du projet Static Tweet pour cet exercice.
+
+**Liens vers les travaux**:
+1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
