@@ -413,9 +413,35 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 ### Jour 15: 18 mars 2019
 
+**Progrès**: Conception du mini-projet : Props Tweet - Pure React de Dave Ceddia.
+
+**Pensées**: Grosse lecture du passage sur les accessoires. Toujours rien de neuf mais toujours bon de ressasser ce que l'on sait. Reprise du projet Static Tweet pour cet exercice.
+
+**Liens vers les travaux**:
+1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 16: 19 mars 2019
+
 **Progrès**: Conception du mini-projet : PropTypes Tweet - Pure React de Dave Ceddia.
 
 **Pensées**: Projet mené à bien durant la journée, ça change de faire ça la nuit. PropTypes est un incroyable outil à mettre en place dans ses projets pour déboguer facilement son code, tout du moins en ce qui concerne le passage des arguments ou props dans les composants.
+
+**Liens vers les travaux**:
+1. [Pure React - PropTypes] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 17: 20 mars 2019
+
+**Progrès**: Projet PropTypes Tweet achevé.
+
+**Pensées**: Ajout de PropTypes aux différents composants du Tweet.
 
 **Liens vers les travaux**:
 1. [Pure React - PropTypes] (https://github.com/AnhPati/pure-react)
