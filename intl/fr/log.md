@@ -450,6 +450,17 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
+### Jour 18: 21 mars 2019
+
+**Progrès**: Création du projet PropTypes Exercices. Réalisation du premier exercice.
+
+**Pensées**: Il est temps de jouer un peu avec CSS pour mettre en valeur le travail sur React.
+
+**Liens vers les travaux**:
+1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
 ### Jour 19: 22 mars 2019
 
 **Progrès**: Réalisation de l'exercice Envelope du chapitre PropTypes Exercices, toujours sur Pure React.
