@@ -450,14 +450,53 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
-### Jour 17: 21 mars 2019
+### Jour 19: 22 mars 2019
 
-**Progrès**: Création du projet PropTypes Exercices. Réalisation du premier exercice.
+**Progrès**: Réalisation de l'exercice Envelope du chapitre PropTypes Exercices, toujours sur Pure React.
 
-**Pensées**: Il est temps de jouer un peu avec CSS pour mettre en valeur le travail sur React.
+**Pensées**: Il est bien intéressant de voir le passage des props et surtout comment les PropTypes servent de documentation pour se retrouver facilement dans les accessoires à passer à mes composants. Petit clin d'oeil à la Colombie dans le projet. Par contre c'est la panade, il n'y a plus internet ce soir. Je note mon journal sur l'ordi en espérant son retour demain.
 
 **Liens vers les travaux**:
 1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 20: 23 mars 2019
+
+**Progrès**: Réalisation des exercices CreditCard et Poster.
+
+**Pensées**: Les PropTypes me semblent bien assimilés. Je m'éclate donc avec CSS pour rendre les exercices plus attrayants. Par contre la coupure internet se prolonge et me met furieusement dedans.
+
+**Liens vers les travaux**:
+1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 21: 24 mars 2019
+
+**Progrès**: Création et finalisation du dernier exercice sur les PropTypes.
+
+**Pensées**: J'ai beaucoup transpirer sur le placement et les débordements de contenus avec flexbox. Ma ligne d'email n'est pas réellement responsive, mais sans internet je manque de documentation. Et au final, je ne vais pas perdre plus de temps sur ça, car je dois avancer sur React.
+
+**Liens vers les travaux**:
+1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 22: 25 mars 2019
+
+**Progrès**: Démarrage du projet Children Exercices. Et réalisation du premier exercice.
+
+**Pensées**: De nouveau une journée de lecture et tests pour appréhender au maximum le concept de children dans React. Toujours pas d'internet à la maison, j'ai enfin pu squatter l'excellent café libre "La Maraña" à Jardin de Antioquia. Ils sont adorables et l'ambiance est parfaite pour travailler en toute quiétude.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
 
