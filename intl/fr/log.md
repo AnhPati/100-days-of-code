@@ -512,3 +512,16 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 23: 26 mars 2019
+
+**Progrès**: Réalisation des étapes 1 et 2 du deuxième exercice. Etape 3 en cours.
+
+**Pensées**: Tout allait pour le mieux avec ces deux exercices, puis j'ai bogué dès la mise en place du troisièmé. Je comprends très mal les limites des Composants utilisant children et une autre props.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
