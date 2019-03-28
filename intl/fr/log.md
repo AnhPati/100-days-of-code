@@ -517,7 +517,7 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 
 **Progrès**: Réalisation des étapes 1 et 2 du deuxième exercice. Etape 3 en cours.
 
-**Pensées**: Tout allait pour le mieux avec ces deux exercices, puis j'ai bogué dès la mise en place du troisièmé. Je comprends très mal les limites des Composants utilisant children et une autre props.
+**Pensées**: Tout allait pour le mieux avec ces deux exercices, puis j'ai bogué dès la mise en place du troisième. Je comprends très mal les limites des Composants utilisant children et une autre props.
 
 **Liens vers les travaux**:
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
@@ -525,3 +525,18 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 24: 27 mars 2019
+
+**Progrès**: Réalisation des étapes 3 et 4 du deuxième exercice.
+
+**Pensées**: Après avoir envoyer demander à des amis et envoyer un mail à Dave Ceddia, j'ai eu comme une lumière. Je ne sais pas si j'ai compris la consigne, mais j'ai réussi à rendre le nombre d'enfants en partant du début et en partant de la fin par rapport à un chiffre passer en props.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+2. [MDN - Array.prototype.slice()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/slice)
