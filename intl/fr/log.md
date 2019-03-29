@@ -540,3 +540,18 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 2. [MDN - Array.prototype.slice()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/slice)
+
+### Jour 25: 28 mars 2019
+
+**Progrès**: Réalisation du dernier exercice de chapitre sur les Children.
+
+**Pensées**: Un peu galère à comprendre comment doivent être mis en place les composants, donc beaucoup de lecture pour un petit exercice pratique.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+2. [GitHub - How to best define a propType for accepting a component as a prop?] (https://github.com/facebook/react/issues/5143)
