@@ -555,3 +555,29 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 2. [GitHub - How to best define a propType for accepting a component as a prop?] (https://github.com/facebook/react/issues/5143)
+
+### Jour 26: 29 mars 2019
+
+**Progrès**: Réalisation des deux premiers exercices complémentaires du chapitre Children de Pure React.
+
+**Pensées**: On passe aux choses plus poussées. Refactorisation du code pour que les composants soient réellement réutilisables.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 27: 30 mars 2019
+
+**Progrès**: Réalisation du troisième exercices complémentaires du chapitre Children.
+
+**Pensées**: Avec la fonction map(), on récupère le tweet et on renvoit facilement une liste de tweet. On a tendance à dire que tout n'est que liste sur le web.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
