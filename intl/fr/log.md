@@ -581,3 +581,29 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 28: 31 mars 2019
+
+**Progrès**: Peaufinage de l'exercice 3 et démarrage de l'exercice 4 : Création d'une carte Trello.
+
+**Pensées**: Les exercices commencent à être vraiment sympas. On visualise bien ce que peut donner une réalisation réelle avec React. Par contre dans les aéroports, surtout celui de Bogota, c'est pas évident de bosser et encore moins de pousser son code avec 30min d'Internet disponible.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 29: 01 avril 2019
+
+**Progrès**: Réalisation du quatrième exercice, la carte Trello. J'ai tellement pris de plaisir que j'ai bien tout découpé les composants et créer un composant parent pour restituer une liste de carte comme sur le vrai Trello.
+
+**Pensées**: On peut dire que j'avais le temps à Toronto, 14h dans l'aéroport. Donc j'ai bien avancé sur ça, j'ai pris mon temps de redistribuer mon code en petits composants individuels. Et j'ai même commencé le 5e projet en tout cas le découpage de la maquette.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
