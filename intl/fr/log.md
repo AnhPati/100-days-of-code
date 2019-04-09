@@ -607,3 +607,94 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 **Liens vers les ressources**:
 
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 30: 02 avril 2019
+
+**Progrès**: Structure du projet 5 : Réplique de Hacker News.
+
+**Pensées**: A peine deux heures peu productives, le contre-coup du trajet. Puis un problème de taille rencontré, l'absence d'Internet, j'espère que ça ne me ralentira pas trop.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 31: 03 avril 2019
+
+**Progrès**: Mise en place des composants de la navigation.
+
+**Pensées**: Toujours pas d'Internet, donc pas de cdn, du coup j'ai perdu pas mal de temps notamment à styliser le logo au lieu de le récupérer sur Internet.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 32: 04 avril 2019
+
+**Progrès**: Mise en place de la variable pour définir la navigation. Mise en place des composants du rang et du titrage des articles.
+
+**Pensées**: Le découpage en petits composants de mon code le rend très intuitif, mais j'ai peur qu'avec le temps il me déserve.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 33: 05 avril 2019
+
+**Progrès**: Mise en place des composants des infos des articles.
+
+**Pensées**: J'ai trouvé un super bar où squatter sur Nanterre, bien que le wifi ne soit pas des plus vifs, c'est mieux que rien.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 34: 06 avril 2019
+
+**Progrès**: Mise en place de la variable qui défini les informations et le titrage des articles.
+
+**Pensées**: L'ajout des infos dans la variable simule parfaitement un fichier de data. Je me rend compte que je pourrai encore plus découper mon code et placer d'autres choses dans ces datas.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 35: 07 avril 2019
+
+**Progrès**: Ajout des styles sur la partie article de la page.
+
+**Pensées**: Jouer d'avantage avec des classes ciblées pour une chose plutot que d'avoir des conteneurs avec beaucoup de styles différents.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+### Jour 36: 08 avril 2019
+
+**Progrès**: Finitions du projet 5 des exercices sur les childrens.
+
+**Pensées**: Le style n'est pas à l'identique, mais tout y est, le résultat est conforme.
+
+**Liens vers les travaux**:
+1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
+
+**Liens vers les ressources**:
+
+1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
