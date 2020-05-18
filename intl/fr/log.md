@@ -48,6 +48,7 @@ Veille sur les animations CSS.
 
 **Liens vers les travaux**:
 1. [Certification - Responsive Web Design] (https://www.freecodecamp.org/certification/ahnpati/responsive-web-design)
+
 2. [Embedding images and video] (https://github.com/AnhPati/OdinProject_css_html/tree/master/Embendding_images_and_video)
 
 **Liens vers les ressources**:
@@ -316,7 +317,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [ReactJS] (https://qllo63nj3w.codesandbox.io/)
 
 **Liens vers les ressources**:
-
 1. [Mozilla - Linear gradient] (https://developer.mozilla.org/fr/docs/Web/CSS/linear-gradient)
 
 ### Jour 9: 12 mars 2019
@@ -329,7 +329,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [ReactJS] (https://yjykl7k89x.codesandbox.io/)
 
 **Liens vers les ressources**:
-
 1. [CSS-Tricks - CSS Box Shadow] (https://css-tricks.com/snippets/css/css-box-shadow/)
 
 2. [How To Create a Toggle Switch] (https://www.w3schools.com/howto/howto_css_switch.asp)
@@ -344,7 +343,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [ReactJS] (https://p7nnlzlpk7.codesandbox.io/)
 
 **Liens vers les ressources**:
-
 1. [API Reddit] (https://www.reddit.com/r/reactjs.json)
 
 2. [JSON Pretty Print] (http://jsonprettyprint.com/)
@@ -365,7 +363,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [ReactJS] (anhpati.surge.sh)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 12: 15 mars 2019
@@ -378,7 +375,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Hello World] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 13: 16 mars 2019
@@ -391,7 +387,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 2. [MDN - L'opérateur conditionnel] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/L_op%C3%A9rateur_conditionnel)
@@ -408,7 +403,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 15: 18 mars 2019
@@ -421,7 +415,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Exercices JSX] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 16: 19 mars 2019
@@ -434,7 +427,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - PropTypes] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 17: 20 mars 2019
@@ -447,7 +439,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - PropTypes Tweet] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 18: 21 mars 2019
@@ -471,7 +462,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 20: 23 mars 2019
@@ -484,7 +474,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 21: 24 mars 2019
@@ -497,7 +486,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - PropTypes Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 22: 25 mars 2019
@@ -510,7 +498,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 23: 26 mars 2019
@@ -523,7 +510,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 24: 27 mars 2019
@@ -536,7 +522,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 2. [MDN - Array.prototype.slice()] (https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/slice)
@@ -551,7 +536,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 2. [GitHub - How to best define a propType for accepting a component as a prop?] (https://github.com/facebook/react/issues/5143)
@@ -566,7 +550,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 27: 30 mars 2019
@@ -579,7 +562,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 28: 31 mars 2019
@@ -592,7 +574,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 29: 01 avril 2019
@@ -605,7 +586,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 30: 02 avril 2019
@@ -618,7 +598,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 31: 03 avril 2019
@@ -631,7 +610,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 32: 04 avril 2019
@@ -644,7 +622,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 33: 05 avril 2019
@@ -657,7 +634,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 34: 06 avril 2019
@@ -670,7 +646,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 35: 07 avril 2019
@@ -683,7 +658,6 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
 
 ### Jour 36: 08 avril 2019
@@ -696,5 +670,22 @@ Par contre, vu que je suis en Colombie et que j'ai poussé un peu plus tard qu'h
 1. [Pure React - Children Exercices] (https://github.com/AnhPati/pure-react)
 
 **Liens vers les ressources**:
-
 1. [Dave Ceddia - Pure React] (https://daveceddia.com/pure-react/?_r=prec5&ck_subscriber_id=411412023#buy-pure-react)
+
+________________________________________________________________________________________________________________________________________
+
+### Jour 1: 18 mai 2019
+
+**Progrès**: Avancement sur le parsing de fichier CSV, retour sur la méthode AJAX.
+
+**Pensées**: Après plus d'un an, je retente le défi. Espérant battre mon record et aller jusqu'au bout. Evidemment, se replonger dans un projet perso, en JS de surcroit, est super compliqué. Je pense que je vais devoir revoir beaucoup de base.
+
+**Liens vers les travaux**:
+1. [Lecteur CSV- Sorties Daylio] (Cahier)
+
+**Liens vers les ressources**:
+1. [Converting CSV string to a 2D array of objects in ES6] (https://medium.com/@sanderdebr/converting-csv-to-a-2d-array-of-objects-94d43c56b12d)
+
+2. [Introduction au parsing] (http://pl.legoff.free.fr/docs/informatique/rebol/rebol-parsing1.html)
+
+3. [Ajax - Premiers pas] (https://developer.mozilla.org/fr/docs/Web/Guide/AJAX/Premiers_pas)
